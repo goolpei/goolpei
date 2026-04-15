@@ -1,4 +1,4 @@
-First-year **Computer Engineering** student at **TUPV**. I enjoy building software, analyzing circuits, and tackling difficult boss fights in FromSoftware games.
+**Computer Engineering** student at **TUPV**. I enjoy building software, analyzing circuits, and tackling difficult boss fights in FromSoftware games.
 
 ### 🛠 Tech Stack & Tools
 <p align="left">
@@ -10,8 +10,7 @@ First-year **Computer Engineering** student at **TUPV**. I enjoy building softwa
 ### 📈 Codewars Progress
 [![Codewars Badge](https://www.codewars.com/users/goolpei/badges/large)](https://www.codewars.com/users/goolpei)
 
-### 🔭 What I'm working on
-- 📱 Developing **Everyday Expenses**, an Android app for financial tracking.
+
 
 
 
