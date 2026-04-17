@@ -2,7 +2,7 @@
 
 ### 🛠 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,androidstudio" height="50" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,androidstudio,vscode" height="50" />
   <img src="https://img.shields.io/badge/Dark_Souls_III-black?style=for-the-badge&logo=steam&logoColor=white" height="50" />
   <img src="https://img.shields.io/badge/Sekiro-E53935?style=for-the-badge&logo=starship&logoColor=white" height="50" />
 </p>
