@@ -10,8 +10,8 @@
 ### 📈 Codewars Progress
 [![Codewars Badge](https://www.codewars.com/users/goolpei/badges/large)](https://www.codewars.com/users/goolpei)
 
-
-
+### 📈 LeetCode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Goolpei?theme=dark&font=baloo_2)](https://leetcode.com/Goolpei)
 
 
 <!--
